@@ -1,0 +1,90 @@
+body{
+    background: #003333;
+}
+header{
+    height: 240px;
+    font-family: impact;
+    font-size: 45;
+    background-color: #FF6633;
+    border-style: solid;
+    border-color: #003333;
+    margin-bottom: 7px
+
+
+}
+header h1{
+    font-size: 70px;
+    color: #003333;
+
+}
+header ul{        
+    font-family: impact;
+    overflow: hidden;
+   
+}
+.derp{
+    display: block;
+    float: right;
+    padding: 13px 14px;
+    font-size: 20px;
+}
+
+a:link, a:visited {
+    background-color: #FFCC99;
+    color: black;
+    padding: 13px 15px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: #FF6633;
+}
+aside {
+    float: left;
+    max-width: 28%;
+    font-size: 20px;
+    text-align: left;
+    height: 1321px;
+    width: 272px;
+    font-family: Arial;
+    border-style: solid;
+    border-color: #003333;
+    background-color: #FFCC99;
+
+
+}
+aside ul{
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+section{
+    padding: 35px;
+    font-size: 30;
+    border-style: solid;
+    border-color: #003333;
+    background-color: #FFCC99;
+    float: right;
+    max-width: 72.5%;
+    height: 1251px;
+}
+p{
+    font-family: Courier;
+    font-style: italic;
+}
+h4{
+    font-family: Century;
+}
+h2{
+    font-family: Century;
+}
+footer{
+    text-align: left;
+    float: left;
+    color: white;
+}
+
+
+    
